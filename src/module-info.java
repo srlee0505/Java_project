@@ -5,5 +5,5 @@
  * 
  */
 module MyfirstProject {
-	requires java.se;
+	//requires java.se;
 }
